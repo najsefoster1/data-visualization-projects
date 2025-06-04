@@ -1,7 +1,7 @@
 # Data Visualization Projects
 
 Welcome!
-This repository contains a collection of data visualization projects developed during my graduate course **CIS609: Data Visualization** at Park University. Each project applies core visualization principles, storytelling techniques, and tools like Tableau, Python, and Excel to communicate insights from real-world datasets.
+This repository contains a collection of data visualization projects developed. Each project applies core visualization principles, storytelling techniques, and tools like Tableau, Python, and Excel to communicate insights from real-world datasets.
 
 ---
 
