@@ -25,8 +25,8 @@ Visual analysis of Austin’s traffic signal status and city planning recommenda
 
 ---
 
-### Bike Share Efficiency (Jan–Mar 2025)
-Python-powered visualizations of Citibike trip data, exploring weekday vs weekend usage and time-of-day trends. Features daily volume and hourly distribution graphs.  
+###### Bike Share Efficiency (January to March 2025)
+Python-powered visualizations of Citibike trip data explore weekday versus weekend usage and time-of-day trends. Features daily volume and hourly distribution graphs.Features daily volume and hourly distribution graphs.  
 📂 [`Bike_Share_Efficiency`](./Bike_Share_Efficiency)
 
 ---
